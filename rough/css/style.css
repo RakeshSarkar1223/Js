@@ -1,0 +1,34 @@
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    height: 100vh;
+}
+
+header {
+    width: 50vw;
+    background-color: aqua;
+}
+
+h1 {
+    border: 2px solid orange;
+    padding: 5px;
+    font-size: 3rem;
+
+}
+
+main {
+    
+}
+
+button {
+    padding: 10px;
+    border: 2px dashed red ;
+    border-radius: 3px;
+    font-family: monospace;
+    background-color: rgba(255,255,0,.5);
+}
